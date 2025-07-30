@@ -1,0 +1,40 @@
+(env) deepanshpandey@Deepansh-ka-MacBook-Air Project-1 % /Users/deepanshpandey/Desktop/first/env/bi
+n/python /Users/deepanshpandey/Desktop/first/Project-1/cnn.py
+MNIST CNN initialized!
+--- Epoch 1 ---
+[Step 100] Past 100 steps: Average Loss 2.223 | Accuracy: 23%
+[Step 200] Past 100 steps: Average Loss 2.041 | Accuracy: 38%
+[Step 300] Past 100 steps: Average Loss 1.603 | Accuracy: 48%
+[Step 400] Past 100 steps: Average Loss 1.054 | Accuracy: 65%
+[Step 500] Past 100 steps: Average Loss 0.969 | Accuracy: 72%
+[Step 600] Past 100 steps: Average Loss 0.834 | Accuracy: 75%
+[Step 700] Past 100 steps: Average Loss 0.675 | Accuracy: 76%
+[Step 800] Past 100 steps: Average Loss 0.687 | Accuracy: 79%
+[Step 900] Past 100 steps: Average Loss 0.759 | Accuracy: 77%
+[Step 1000] Past 100 steps: Average Loss 0.602 | Accuracy: 87%
+--- Epoch 2 ---
+[Step 100] Past 100 steps: Average Loss 0.558 | Accuracy: 80%
+[Step 200] Past 100 steps: Average Loss 0.612 | Accuracy: 81%
+[Step 300] Past 100 steps: Average Loss 0.697 | Accuracy: 79%
+[Step 400] Past 100 steps: Average Loss 0.431 | Accuracy: 85%
+[Step 500] Past 100 steps: Average Loss 0.560 | Accuracy: 81%
+[Step 600] Past 100 steps: Average Loss 0.401 | Accuracy: 92%
+[Step 700] Past 100 steps: Average Loss 0.457 | Accuracy: 86%
+[Step 800] Past 100 steps: Average Loss 0.614 | Accuracy: 87%
+[Step 900] Past 100 steps: Average Loss 0.582 | Accuracy: 82%
+[Step 1000] Past 100 steps: Average Loss 0.356 | Accuracy: 90%
+--- Epoch 3 ---
+[Step 100] Past 100 steps: Average Loss 0.490 | Accuracy: 86%
+[Step 200] Past 100 steps: Average Loss 0.302 | Accuracy: 92%
+[Step 300] Past 100 steps: Average Loss 0.529 | Accuracy: 81%
+[Step 400] Past 100 steps: Average Loss 0.396 | Accuracy: 90%
+[Step 500] Past 100 steps: Average Loss 0.289 | Accuracy: 91%
+[Step 600] Past 100 steps: Average Loss 0.453 | Accuracy: 90%
+[Step 700] Past 100 steps: Average Loss 0.306 | Accuracy: 90%
+[Step 800] Past 100 steps: Average Loss 0.442 | Accuracy: 87%
+[Step 900] Past 100 steps: Average Loss 0.524 | Accuracy: 88%
+[Step 1000] Past 100 steps: Average Loss 0.390 | Accuracy: 89%
+
+--- Testing the CNN ---
+Test Loss: 0.5314646756420616
+Test Accuracy: 0.831
