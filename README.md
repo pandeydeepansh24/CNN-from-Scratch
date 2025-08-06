@@ -100,7 +100,7 @@ You should see epoch-wise logs showing loss and accuracy.
 ⸻
 
 📬 Contact
-
-Feel free to reach out for suggestions, collaborations, or feedback:
+	
+ 	Feel free to reach out for suggestions, collaborations, or feedback:
 	•	📧 Email: pandeydeepansh24@gmail.com
 	•	🔗 LinkedIn: linkedin.com/in/deepansh-pandey-12235830a
